@@ -57,7 +57,7 @@ const Main = () => {
        {/* <h1>SKILLED <span id="accountancy">ACCOUNTANTS</span></h1>
           <img src={person1} /> */}
         <div className="box1">
-         
+         <img src={person1}  />
         </div>
         <div className="box1">
          

@@ -84,5 +84,9 @@ border: 2px #11001A, #AC8CBB00;
 background: #FFF;
 margin-bottom: 20px;
 }
+.box1 img{
+  background: #260A38;
+  opacity: 0.20;
+}
 
 
