@@ -1,0 +1,71 @@
+.navbar {
+  border-bottom: 2px solid #fff;
+  background: #290a38;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+  width: 1441px;
+  height: 89px;
+  flex-shrink: 0;
+  border-bottom: 2px solid #fff;
+  background: #290a38;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navbar p {
+  font-family: Work Sans;
+  font-weight: 600;
+  color: white;
+  width: 107px;
+  height: 24px;
+  margin-left: 20px;
+  
+}
+.Logo {
+  padding-left: 102px;
+  width: 39px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.list {
+  color: #fff;
+  text-align: right;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  
+}
+.list ul {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  list-style: none;
+  cursor: pointer;
+  margin-left: 40rem;
+}
+.btn button{
+    padding:7px ;
+    border: none;
+    border: 1px solid white;
+    border-radius:3px;
+    /* display: flex; */
+    flex-direction: row;
+    gap: 10px;
+    color: #FFF;
+    text-align:justify;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom :35px;
+    margin-top: 36px;
+    margin-left: 15px;
+    
+}
